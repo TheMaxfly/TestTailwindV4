@@ -30,4 +30,4 @@ npx tailwindcss -i src/input.css -o src/output.css --watch
 - Les interactions (hover) sont gérées via `@apply` et des utilitaires Tailwind pour rester dans l’esprit du test.
 
 ## Licence
-Liberté totale pour expérimenter (ajuste selon ton besoin).
+
